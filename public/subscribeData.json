@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Essentials Box",
+    "thumbnail": "https://i.ibb.co.com/6JrLWMKj/card6.png",
+    "banner": "https://i.ibb.co/NgFwZjFR/Tech-ls.png",
+    "frequency": "Monthly",
+    "price": 29.99,
+    "description": "A curated collection of must-have tech gadgets and accessories delivered monthly.",
+    "category": "Gadgets",
+    "features": [
+      "Latest Tech Gadgets",
+      "Portable Accessories",
+      "Charging Solutions"
+    ],
+    "subscription_benefits": [
+      "Exclusive Tech Deals",
+      "Early Access to New Gadgets",
+      "Monthly Surprise Item"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 152
+  },
+  {
+    "id": 2,
+    "name": "Winter Wellness Box",
+    "thumbnail": "https://i.ibb.co.com/5gSNcjmJ/card5.png",
+    "banner": "https://i.ibb.co/C3mCj9Fc/Wellness-Box.png",
+    "frequency": "Weekly",
+    "price": 34.99,
+    "description": "Stay healthy and cozy this winter with curated wellness products and treats.",
+    "category": "Health",
+    "features": [
+      "Essential Oils",
+      "Herbal Teas",
+      "Skincare & Wellness"
+    ],
+    "subscription_benefits": [
+      "Weekly Health Tips",
+      "Access to Wellness Webinars",
+      "Special Discount Codes"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 98
+  },
+  {
+    "id": 3,
+    "name": "Cozy Home Decor Box",
+    "thumbnail": "https://i.ibb.co.com/JWBPWRQQ/card4.png",
+    "banner": "https://i.ibb.co/4gXr3rq5/Wellness-Box-1.png",
+    "frequency": "Quarterly",
+    "price": 39.99,
+    "description": "Transform your space each season with cozy and aesthetic home decor items.",
+    "category": "Home & Living",
+    "features": [
+      "Seasonal Decor",
+      "Scented Candles",
+      "Handcrafted Items"
+    ],
+    "subscription_benefits": [
+      "Interior Styling Tips",
+      "Home Decor Giveaways",
+      "Member-Only Discounts"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 121
+  },
+  {
+    "id": 4,
+    "name": "Coffee Lovers Box",
+    "thumbnail": "https://i.ibb.co.com/3VdGHkr/card3.png",
+    "banner": "https://i.ibb.co/WNTcmtnH/Wellness-Box-2.png",
+    "frequency": "Monthly",
+    "price": 24.99,
+    "description": "For true coffee enthusiasts – artisan beans, brewers, and barista surprises each month.",
+    "category": "Food & Drink",
+    "features": [
+      "Gourmet Coffee Beans",
+      "Tasting Notes",
+      "Brewing Tools"
+    ],
+    "subscription_benefits": [
+      "Free Sample Packs",
+      "Coffee Pairing Recipes",
+      "First Access to New Roasts"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 203
+  },
+  {
+    "id": 5,
+    "name": "Smart Kids Learning Box",
+    "thumbnail": "https://i.ibb.co.com/GQj7GcQF/card2.png",
+    "banner": "https://i.ibb.co/KxwjM2FW/Wellness-Box-3.png",
+    "frequency": "Monthly",
+    "price": 27.99,
+    "description": "Boost your child’s brainpower with fun and educational activities every month.",
+    "category": "Kids & Education",
+    "features": [
+      "STEM Activities",
+      "Creative Worksheets",
+      "Story & Puzzle Games"
+    ],
+    "subscription_benefits": [
+      "Printable Resources",
+      "Parental Guidance Notes",
+      "Bonus Toys in Select Boxes"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 187
+  },
+  {
+    "id": 6,
+    "name": "Pet Winter Treat Box",
+    "thumbnail": "https://i.ibb.co.com/YzHSytV/tyyyty.jpg",
+    "banner": "https://i.ibb.co/4gm2sY7V/Wellness-Box-4.png",
+    "frequency": "Weekly",
+    "price": 19.99,
+    "description": "Delight your furry friends with tasty treats, toys, and grooming products.",
+    "category": "Pet Care",
+    "features": [
+      "Natural Treats",
+      "Chew Toys",
+      "Pet Grooming Essentials"
+    ],
+    "subscription_benefits": [
+      "Pet Care Tips",
+      "Birthday Bonus Box",
+      "Free Vet Q&A Access"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 245
+  }
+]
